@@ -65,30 +65,19 @@ onClick 按钮点击时间
 
 日志功能打印触发事件信息(日志级别为Debug)，通过筛选功能显示指定的信息,如下所示：
 
-`
+```
 2019-01-18 20:54:07.362 32767-32767/com.example.codesky.helloworld D/MainActivity: trigger button listener
-
 2019-01-18 20:54:11.629 32767-32767/com.example.codesky.helloworld D/MainActivity: seekBar onStartTrackingTouch event
-
 2019-01-18 20:54:11.642 32767-32767/com.example.codesky.helloworld D/MainActivity: seekBar onProgressChanged event
-
 2019-01-18 20:54:11.763 32767-32767/com.example.codesky.helloworld D/MainActivity: seekBar onProgressChanged event
-
 2019-01-18 20:54:11.778 32767-32767/com.example.codesky.helloworld D/MainActivity: seekBar onProgressChanged event
-
 2019-01-18 20:54:11.811 32767-32767/com.example.codesky.helloworld D/MainActivity: seekBar onProgressChanged event
-
 2019-01-18 20:54:12.025 32767-32767/com.example.codesky.helloworld D/MainActivity: seekBar onProgressChanged event
-
 2019-01-18 20:54:12.586 32767-32767/com.example.codesky.helloworld D/MainActivity: seekBar onStopTrackingTouch event
-
 2019-01-18 20:54:22.745 32767-32767/com.example.codesky.helloworld D/MainActivity: Switch Checked 夜间模式
-
 2019-01-18 20:54:22.789 32767-497/com.example.codesky.helloworld I/ContentCatcher: Interceptor : Catcher list invalid for com.example.codesky.helloworld@com.example.codesky.helloworld.MainActivity@220794545
-
 2019-01-18 20:54:22.845 32767-32767/com.example.codesky.helloworld D/MainActivity: seekBar onProgressChanged event
-
 2019-01-18 20:54:24.329 32767-32767/com.example.codesky.helloworld D/MainActivity: Switch Checked 日间模式
-`
+```
 
 
